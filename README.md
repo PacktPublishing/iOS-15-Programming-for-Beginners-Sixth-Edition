@@ -72,3 +72,7 @@ is a self-taught senior iOS engineer at Fan Reach, specializing in building mobi
 * [iOS 13 Programming for Beginners - Fourth Edition](https://www.packtpub.com/product/ios-13-programming-for-beginners-fourth-edition/9781838821906?utm_source=github&utm_medium=repository&utm_campaign=9781838821906) 
 * [SwiftUI Projects](https://www.packtpub.com/product/swiftui-projects/9781839214660?utm_source=github&utm_medium=repository&utm_campaign=9781839214660)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801811248">https://packt.link/free-ebook/9781801811248 </a> </p>
